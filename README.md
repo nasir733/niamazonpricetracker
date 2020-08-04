@@ -14,4 +14,4 @@ python manage.py runserver <br>
 the app is live <br>
 
 
-https://www.nasiramazonpricetracke.herokuapp.com
+https://nasiramazonpricetracker.herokuapp.com/
